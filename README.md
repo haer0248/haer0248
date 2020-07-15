@@ -7,7 +7,7 @@
 **Website**/ https://haer0248.me/
 
 ### Minecraft Server
-
+![image](https://i.haer0248.me/amsserver/YP1YfD.png)<br>
 **Webiste**/ https://amsserver.xyz/
 
 ### Minecraft Server List
