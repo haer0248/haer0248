@@ -1,16 +1,29 @@
 ### Hi there 👋
+**Name**/ Michael Lin<br>
+**Nickname**/  Hi_Michael<br>
+**Location**/  Taiwan<br>
+**Discord**/  阿任(ゝ∀･)#7217<br>
+**Email**/  admin@haer0248.me<br>
+**Website**/ https://haer0248.me/
 
-<!--
-**haer0248/haer0248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Minecraft Server
 
-Here are some ideas to get you started:
+**Webiste**/ https://amsserver.xyz/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Minecraft Server List
+![image](https://www.mc-list.xyz/assets/fbimg.png)<br>
+**Webiste**/ https://www.mc-list.xyz/<br>
+**How-to-use**/ https://home.gamer.com.tw/creationDetail.php?sn=4688843
+
+### Social Link
+
+**Facebook**/ https://www.facebook.com/haer0248/<br>
+**Instagram**/ https://instagram.com/\_haer0248<br>
+**YouTube**/ https://www.youtube.com/MichaelLin0446<br>
+**Twitch**/ https://www.twitch.tv/haer0248<br>
+**巴哈姆特**/ https://home.gamer.com.tw/haer0248
+
+### Join my own discord!
+
+https://discord.gg/VaQAY2s
+_You can ask all question in Discord Server! (ONLY SUPPORT TRADITIONAL CHINESE)_
