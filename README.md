@@ -13,7 +13,7 @@
 ## Minecraft Server List
 ![image](https://www.mc-list.xyz/assets/fbimg.png)<br>
 **Webiste**/ https://www.mc-list.xyz/<br>
-**How-to-use**/ https://home.gamer.com.tw/creationDetail.php?sn=4688843
+**How-to-use**/ https://blog.haer0248.me/117/
 
 ## Social Link
 
