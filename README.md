@@ -26,8 +26,3 @@
 **Twitch** https://www.twitch.tv/haer0248<br>
 **Telegram** https://t.me/haer0248<br>
 **巴哈姆特** https://home.gamer.com.tw/haer0248
-
-## Join my Discord Server!
-
-https://discord.gg/VaQAY2s
-_You can ask all question in Discord Server! (ONLY SUPPORT TRADITIONAL CHINESE)_
