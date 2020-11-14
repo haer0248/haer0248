@@ -1,8 +1,0 @@
-[user]
-  name = Haer0248
-  email = admin@haer0248.me
-  signingkey = DE04EE09E82166BC
-[gpg]
-  program = gpg.exe
-[commit]
-  gpgsign = true

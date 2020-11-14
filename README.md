@@ -1,9 +1,9 @@
 ## Hi there 👋
 **Name** Michael Lin<br>
-**Location**  Taiwan<br>
-**Discord**  阿任(ゝ∀･)#7217<br>
-**Email**  admin@haer0248.me<br>
-**Blog** https://haer0248.me/
+**Location** Taiwan<br>
+**Discord** 阿任(ゝ∀･)#7217<br>
+**Email** admin@haer0248.me<br>
+**Blog* https://haer0248.me/
 
 ## Minecraft IGN
 **1** Hi_Michael<br>
