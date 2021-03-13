@@ -13,7 +13,7 @@
 
 ## Minecraft Server
 ![image](https://i.haer0248.me/amsserver/YP1YfD.png)<br>
-**Website** https://amsserver.xyz/
+**Website** https://amssv.club/
 
 ## Minecraft Server List
 ![image](https://www.mc-list.xyz/assets/fbimg.png)<br>
