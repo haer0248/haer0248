@@ -1,7 +1,7 @@
 ## Hi there 👋
 **Name** Michael Lin<br>
 **Location** Taiwan<br>
-**Discord** 阿任(ゝ∀･)💤#7217<br>
+**Discord** 猫又おにぎり💤#7217<br>
 **Email** admin@haer0248.me<br>
 **Blog** https://haer0248.me/
 
