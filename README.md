@@ -8,7 +8,7 @@
 ![image](https://github-readme-stats.vercel.app/api?username=haer0248&show_icons=true&theme=vue-dark)
 
 ## Minecraft IGN
-**1** SalmonMichael<br>
+**1** NekomataOnigiri<br>
 **2** Haer0248
 
 ## Minecraft Server
