@@ -27,3 +27,6 @@
 **YouTube** https://www.youtube.com/MichaelLin0446<br>
 **Telegram** https://t.me/haer0248<br>
 **巴哈姆特** https://home.gamer.com.tw/haer0248
+
+## Discord
+[![Discord](https://image.haer0248.me/discord_banner.png)](https://discord.gg/VaQAY2s)
