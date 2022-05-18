@@ -25,7 +25,7 @@
 **Twitch** https://www.twitch.tv/haer0248  
 **Instagram** https://instagram.com/_haer0248  
 **YouTube** https://www.youtube.com/MichaelLin0446  
-**Telegram** https://t.me/haer0248 
+**Telegram** https://t.me/haer0248  
 **巴哈姆特** https://home.gamer.com.tw/haer0248
 
 ## Discord
