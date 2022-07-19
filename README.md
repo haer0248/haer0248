@@ -29,4 +29,4 @@
 **巴哈姆特** https://home.gamer.com.tw/haer0248
 
 ## Discord
-[![Discord](https://image.haer0248.me/discord_banner.png)](https://discord.gg/VaQAY2s)
+[![Discord](https://image.haer0248.me/discord_banner)](https://discord.gg/VaQAY2s)
