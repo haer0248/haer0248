@@ -5,7 +5,7 @@
 **Email** admin@haer0248.me  
 **Blog** https://haer0248.me/
 
-![image](https://github-readme-stats.vercel.app/api?username=haer0248&show_icons=true&theme=vue-dark)
+![image](https://github-readme-stats.vercel.app/api?username=haer0248&count_private=true&title_color=ffff5e&text_color=ffffff&show_icons=true&bg_color=DEG,F04CA1,AC4CF0&cache_seconds=1800&hide_border=true)
 
 ## Minecraft IGN
 **1** NekomataOnigiri  
