@@ -17,7 +17,7 @@
 
 ## Minecraft Server List
 ![image](https://www.mc-list.xyz/assets/fbimg.png)  
-**Webiste** https://www.mc-list.xyz/  
+**Link** https://www.mc-list.xyz/  
 **How-to-use** https://haer0248.me/117/
 
 ## Social Link
