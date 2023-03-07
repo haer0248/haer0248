@@ -1,7 +1,5 @@
 ## Hi there 👋
 **Nickname** Michael Lin (猫又おにぎり)  
-**Location** Taiwan  
-**Language** Traditional Chinese  
 **Discord** 猫又おにぎり💤#7217  
 **Email** admin@haer0248.me  
 **Blog** https://haer0248.me/
