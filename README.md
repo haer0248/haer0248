@@ -8,7 +8,6 @@
 [![Twitch](https://img.shields.io/badge/twitch-haer0248-f04ca1?style=for-the-badge&logo=twitch)](https://twitch.tv/haer0248)
 [![Telegram](https://img.shields.io/badge/telegram-haer0248-239fdb?style=for-the-badge&logo=telegram)](https://t.me/haer0248)
 [![Discord](https://img.shields.io/badge/discord-VaQAY2s-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/VaQAY2s)  
-![image](https://github-readme-stats.vercel.app/api?username=haer0248&count_private=true&title_color=ffff5e&text_color=ffffff&show_icons=true&bg_color=DEG,F04CA1,AC4CF0&cache_seconds=1800&hide_border=true)
 
 ## Minecraft Server List
 [![image](https://www.mc-list.xyz/assets/fbimg.png)](https://www.mc-list.xyz/)
