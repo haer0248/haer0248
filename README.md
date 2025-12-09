@@ -1,6 +1,6 @@
 ## Hi there 👋
 **Nickname** Michael Lin (猫又おにぎり)  
-**Discord** 一隻貓 (nekomataonigiri)    
+**Discord** 猫又おにぎり (nekomataonigiri)    
 **Email** admin@haer0248.me  
 **Linktree / Blog** https://haer0248.me/
 
