@@ -5,7 +5,7 @@
 **Linktree** https://haer0248.me/
 
 ## Minecraft Server List
-[![image](https://www.mc-list.xyz/assets/fbimg.png)](https://www.mc-list.xyz/)
+[![image](https://www.mc-list.xyz/assets/og_image.png)](https://www.mc-list.xyz/)
 
 ## Discord (public)
 [![Discord](https://image.haer0248.me/discord_banner.png)](https://discord.gg/VaQAY2s)
